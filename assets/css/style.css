@@ -20813,4 +20813,17 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   font-size: 20px;
 }
 
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 2s ease, transform 2s ease;
+}
+
+.active{
+  opacity: 1;
+}
+
+.section1{
+  height: 1200px;
+}
 /*# sourceMappingURL=kit-free.css.map */
