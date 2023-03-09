@@ -12,10 +12,11 @@ window.addEventListener("scroll", function() {
         git.classList.add("black");
         face.classList.add("black");
         instagram.classList.add("black");
-        // c.classList.add("black");
         navbar.classList.add("navbar-white");
         navbar.classList.remove("navbar-transparent");
+        
     } else {
+        
         git.classList.remove("black");
         face.classList.remove("black");
         instagram.classList.remove("black");
